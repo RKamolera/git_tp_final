@@ -1,0 +1,15 @@
+
+h1
+{
+  color: red;
+}
+
+h2
+{
+  color: green;
+}
+
+li {
+    font: 1rem 'Fira Sans', sans-serif;
+    margin-bottom: 0.5rem;
+}
